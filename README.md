@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **apexjohn67@gmail.com**
 
-- ⚡ Fun fact **I collect dried insects**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
