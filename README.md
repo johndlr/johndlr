@@ -1,7 +1,5 @@
 <h1 align="center">Hello ✋, I'm Juan de la Rosa</h1>
-<h3 align="center">🏆 Spring Boot Developer 🏆</h3>
-
-- 🌱 I’m currently learning **microservices, aws and docker**
+<h2 align="center">🏆 Spring Boot Developer 🏆</h2>
 
 - 📫 How to reach me **apexjohn67@gmail.com**
 
