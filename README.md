@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Juan and I'm a Spring Boot Developer from México</p>
+<p align="left">My name is Juan and And I love programming 🤓</p>
 
 ###
 
