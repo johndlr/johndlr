@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Juan and And I love programming 😎</p>
+<p align="left">My name is Juan and I love programming and technology 😎</p>
 
 ###
 
