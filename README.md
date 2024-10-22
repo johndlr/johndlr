@@ -2,8 +2,6 @@
 
 <h3 align="center">Backend Developer</h3>
 
-<br/>
-
 <p align="center">  
   🪲 Creating bugs since 2021 <br> 
   🌎 I'm from Mexico and yes I ♥️ tacos <br>
@@ -11,9 +9,7 @@
   🌱 I'm currently learning Software Design and Azure <br>
 </p>
 
-<br/>
-
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
