@@ -14,7 +14,7 @@
 
 </div>
 
-<h2 align="center">I code with</h2>
+<h2 align="left">I code with</h2>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
@@ -46,8 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
 
-###
-
+<h2 align="left">Contributions</h2>
 <img src="https://raw.githubusercontent.com/johndlr/johndlr/output/snake.svg" alt="Snake animation" />
 
 
