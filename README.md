@@ -2,12 +2,17 @@
 
 <h3 align="center">Backend Developer</h3>
 
-<p align="center">  
-  🪲 Creating bugs since 2021 <br> 
-  🌎 I'm from Mexico and yes I ♥️ tacos <br>
-  🔭 I'm currently working on some Microservices stuff  <br>
-  🌱 I'm currently learning Software Design and Azure <br>
-</p>
+<div align="center">
+
+  🌎 I'm from Mexico
+  
+  🪲 Creating bugs since 2021 
+
+  🌱 I'm currently learning Software Design and Azure 
+  
+  🔭 I'm currently working on some Microservices stuff  
+
+</div>
 
 <h2 align="center">I code with</h2>
 <br/>
