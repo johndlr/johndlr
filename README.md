@@ -1,24 +1,21 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=700&color=04CF16&center=true&width=435&lines=Hey!+%F0%9F%91%8B+What's+up%3F;I'm+Juan+de+la+Rosa!" alt="Typing SVG" /></a></h1>
 
-###
+<h3 align="center">Backend Developer</h3>
 
-<p align="center">My name is Juan and I'm a backend developer from Mexico</p>
+<br/>
 
-###
+<p align="center">  
+  🪲 Creating bugs since 2021 <br> 
+  🌎 I'm from Mexico and yes I ♥️ tacos <br>
+  🔭 I'm currently working on some Microservices stuff  <br>
+  🌱 I'm currently learning Software Design and Azure <br>
+</p>
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Software Design and Architecture<br>🔭 I'm currently working on some microservices stuff</p>
-
-###
+<br/>
 
 <h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
+<br/>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
@@ -49,4 +46,9 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/johndlr/johndlr/output/snake.svg" alt="Snake animation" />
+
+
+
 
